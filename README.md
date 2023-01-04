@@ -1,2 +1,1 @@
-# NetDownloader
-Simple downloader program.
+# Nothing here.
