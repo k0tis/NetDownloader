@@ -14,7 +14,7 @@ def wait():
 try:
 	resp = req.get(url)
 	open(filename, "wb").write(resp.content)
-	print("File " +filename+ "successfully downloaded.")
+	print("File " +filename+ " successfully downloaded.")
 	wait()
 
 except:
